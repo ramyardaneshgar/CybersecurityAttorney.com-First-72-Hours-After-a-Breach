@@ -84,13 +84,10 @@ Conduct a forward-looking legal exposure assessment. Evaluate the likelihood of 
 
 ## Resources & References
 
-- [NIST Computer Security Incident Handling Guide (SP 800-61r2)](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)  
-- [EU GDPR Data Breach Notification Guidelines (Guidelines 01/2021)](https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-012021-examples-regarding-data-breach_en)  
-- [California Data Breach Notification Law – CA Attorney General](https://oag.ca.gov/privacy/breach-notification)  
-- [HIPAA Breach Notification Rule – U.S. Department of Health & Human Services](https://www.hhs.gov/hipaa/for-professionals/breach-notification/index.html)  
-- [FTC Business Guide: Data Breach Response](https://www.ftc.gov/business-guidance/resources/data-breach-response-guide-business)  
-- [New York SHIELD Act – Office of the NY Attorney General](https://ag.ny.gov/internet/data-breach)  
-- [SANS Institute: Incident Handler's Handbook](https://www.sans.org/white-papers/1748/)
+NIST Computer Security Incident Handling Guide (SP 800-61)
+HIPAA Breach Notification Rule
+FTC Guidance on Data Breaches
+NY SHIELD Act Summary
 
 ---
 
