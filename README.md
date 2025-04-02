@@ -84,10 +84,10 @@ Conduct a forward-looking legal exposure assessment. Evaluate the likelihood of 
 
 ## Resources & References
 
-NIST Computer Security Incident Handling Guide (SP 800-61)
-HIPAA Breach Notification Rule
-FTC Guidance on Data Breaches
-NY SHIELD Act Summary
+- NIST Computer Security Incident Handling Guide (SP 800-61)
+- HIPAA Breach Notification Rule
+- FTC Guidance on Data Breaches
+- NY SHIELD Act Summary
 
 ---
 
