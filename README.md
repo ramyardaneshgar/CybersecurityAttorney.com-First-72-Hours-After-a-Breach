@@ -87,13 +87,10 @@ Initiate litigation holds with [Zapproved](https://www.zapproved.com/) or [Relat
 
 # Resources & References
 
-- [NIST Computer Security Incident Handling Guide (SP 800-61)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
-- [EU GDPR Breach Notification Guidelines](https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-012021-examples-regarding-data-breach_en)
-- [California Data Breach Notification Law](https://oag.ca.gov/privacy/breach-notification)
-- [HIPAA Breach Notification Rule](https://www.hhs.gov/hipaa/for-professionals/breach-notification/index.html)
-- [FTC Guidance on Data Breaches](https://www.ftc.gov/business-guidance/resources/data-breach-response-guide-business)
-- [NY SHIELD Act Summary](https://ag.ny.gov/internet/data-breach)
-- [SANS Incident Handlers Handbook](https://www.sans.org/white-papers/1748/)
+NIST Computer Security Incident Handling Guide (SP 800-61)
+HIPAA Breach Notification Rule
+FTC Guidance on Data Breaches
+NY SHIELD Act Summary
 
 ---
 
